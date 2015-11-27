@@ -19,6 +19,8 @@ public class Ivanexamen {
      */
     public static void main(String[] args) {
         System.out.print("ivanbonnin");
+               System.out.print("FINISHHHHHHHHH");
+               System.out.print("FUA MA PAAAAAAA");
     }
     
 }
